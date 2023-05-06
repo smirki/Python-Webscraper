@@ -1,0 +1,16 @@
+<body>
+<main>
+<section>
+<h1>
+<span class="flex">
+<span>AcmeWidgetCorp</span>
+<span>Balance Sheet</span>
+</span>
+</h1>
+<div aria-hidden="true" id="years">
+</div>
+</section>
+</main>
+</body>
+
+<style class="fcc-injected-styles"></style>

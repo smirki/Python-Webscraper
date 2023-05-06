@@ -1,0 +1,24 @@
+<body>
+<div class="label">
+<h1>Nutrition Facts</h1>
+<p>8 servings per container</p>
+<p>Serving size 2/3 cup (55g)</p>
+</div>
+</body>
+
+<style class="fcc-injected-styles">
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.label {
+  border: 2px solid black;
+  width: 270px;
+  margin: 20px auto;
+  padding: 0 7px;
+}</style>

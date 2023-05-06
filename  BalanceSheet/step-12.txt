@@ -1,0 +1,38 @@
+<body>
+<main>
+<section>
+<h1>
+<span class="flex">
+<span>AcmeWidgetCorp</span>
+<span>Balance Sheet</span>
+</span>
+</h1>
+<div aria-hidden="true" id="years">
+<span class="year">2019</span>
+<span class="year">2020</span>
+<span class="year">2021</span>
+</div>
+<div class="table-wrap">
+<table>
+<caption>Assets</caption>
+<thead>
+<tr>
+<td></td>
+<th><span class="sr-only year">2019</span></th>
+<th><span class="sr-only year">2020</span></th>
+<th class="current"><span class="sr-only year">2021</span></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+</table>
+<table>
+</table>
+</div>
+</section>
+</main>
+</body>
+
+<style class="fcc-injected-styles"></style>

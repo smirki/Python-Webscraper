@@ -1,0 +1,17 @@
+<body>
+<div class="background-buildings"></div>
+</body>
+
+<style class="fcc-injected-styles">* {
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
+
+
+    </style>

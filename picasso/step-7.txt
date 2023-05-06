@@ -1,0 +1,10 @@
+<body>
+<div id="back-wall"></div>
+</body>
+
+<style class="fcc-injected-styles">body {
+  background-color: rgb(184, 132, 46);
+}
+
+
+</style>

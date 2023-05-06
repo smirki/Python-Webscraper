@@ -1,0 +1,8 @@
+<body>
+</body>
+
+<style class="fcc-injected-styles">* {
+  border: 1px solid black;
+}
+
+</style>
